@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: white;
+  font-family: 'Afacad', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Afacad&display=swap');
